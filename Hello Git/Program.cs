@@ -10,9 +10,11 @@ namespace Hello_Git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, my friend \n");
-            Console.WriteLine("use github by project \n");
-            Console.WriteLine("\n");
+            Console.WriteLine("Hello, my friend !");
+            Console.WriteLine("use github by project");
+            Console.WriteLine("Press Enter key to continue...");
+            Console.ReadLine();
+
 
         }
     }
